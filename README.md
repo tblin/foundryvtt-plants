@@ -20,6 +20,7 @@ Das Kompendium enthält 2904 verbrauchsfertige Items (Typ: *Loot*), aufgeteilt i
 3. Füge unten bei **Manifest URL** folgenden Link ein:
    ```text
    https://raw.githubusercontent.com/tblin/foundryvtt-plants/main/module.json
+   ```
 
 ---
 
