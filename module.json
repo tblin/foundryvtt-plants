@@ -1,0 +1,30 @@
+{
+  "id": "pf1-pflanzen-kompendium",
+  "title": "Pathfinder 1e - Pflanzen & Kräuter Kompendium",
+  "description": "Enthält 2904 Pflanzen und Kräuter mit magischen, alchemistischen und mundanen Eigenschaften.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "pflanzen",
+      "label": "Pflanzen & Kräuter",
+      "path": "packs/pflanzen.db",
+      "type": "Item",
+      "system": "pf1"
+    }
+  ],
+  "url": "https://github.com/tblin/foundryvtt-plants",
+  "manifest": "https://raw.githubusercontent.com/tblin/foundryvtt-plants/main/module.json",
+  "download": "https://github.com/tblin/foundryvtt-plants/archive/refs/heads/main.zip"
+}
