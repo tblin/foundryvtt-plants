@@ -2,10 +2,11 @@
   "id": "pf1-pflanzen-kompendium",
   "title": "Pathfinder 1e - Pflanzen & Kräuter Kompendium",
   "description": "Enthält 2904 Pflanzen und Kräuter mit magischen, alchemistischen und mundanen Eigenschaften.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "13"
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
   },
   "relationships": {
     "systems": [
