@@ -19,4 +19,10 @@ Das Kompendium enthält 2904 verbrauchsfertige Items (Typ: *Loot*), aufgeteilt i
 2. Navigiere zum Reiter **Add-on Modules** und klicke auf **Install Module**.
 3. Füge unten bei **Manifest URL** folgenden Link ein:
    ```text
-   [https://raw.githubusercontent.com/tblin/foundryvtt-plants/main/module.json](https://raw.githubusercontent.com/tblin/foundryvtt-plants/main/module.json)
+   https://raw.githubusercontent.com/tblin/foundryvtt-plants/main/module.json
+
+---
+
+## 🤖 Hinweis zur Erstellung
+
+Dieses Compendium und die enthaltenen Pflanzeinträge wurden unter Einsatz von **Künstlicher Intelligenz (KI)** generiert, aufbereitet und strukturiert.
